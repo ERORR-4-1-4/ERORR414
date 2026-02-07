@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERORR414</title>
+    <!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>صفحة الهكر</title>
+    <style>
+        /* هذا الستايل هو السر */
+        .container {
+            display: flex;           /* تفعيل نظام المرونة */
+            flex-direction: column;  /* هذا الأمر يجبر العناصر تكون تحت بعض (عمودي) */
+            align-items: center;     /* هذا يوسطها في نص الشاشة */
+            justify-content: center; /* يوسطها من فوق وتحت */
+            height: 100vh;           /* يخلي الخلفية ممتدة لكامل الشاشة */
+            background-color: #000000;  /* خلفية سوداء عشان جو الهكر */
+            color: #0f0;             /* لون الخط أخضر */
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        h1 {
+            margin-top: 20px;       /* مسافة بين الصورة والعنوان */
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <img src="c:\Users\user\Documents\لقطة الشاشة 2026-02-07 140644.png" alt="Error 414" width="500">
+
+        <h1>اهلا بكم في موقع ERORR414</h1>
+        <P>سهلاناه عليكم لاكن لاتتحمسو</P>
+    </div>
+
+</body>
+</html>
+
+</head>
+<body>
+
+
+<head>
+    <meta charset="UTF-8">
+
+
+
+  
+
+    
+
+    <style>
+        /* تنسيق حاوية الزر والقائمة */
+        .dropdown {
+            position: fixed;
+            top: 20px;
+            right: 20px; /* مكان الزر في الزاوية */
+            display: inline-block;
+        }
+
+        /* تنسيق زر الثلاث خطوط */
+        .dropbtn {
+            background-color: #000000;
+            color: rgb(77, 218, 12);
+            padding: 10px 15px;
+            font-size: 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        /* القائمة المخفية */
+        .dropdown-content {
+            display: none; /* مخفية افتراضياً */
+            position: absolute;
+            right: 0;
+            background-color: #000000;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgb(0, 0, 0);
+            z-index: 1;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        /* تنسيق الروابط داخل القائمة */
+        .dropdown-content a {
+            color: hsl(107, 100%, 50%););
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: right;
+        }
+
+        /* تغيير اللون عند تمرير الماوس على الروابط */
+        .dropdown-content a:hover {
+            background-color: #000000;
+        }
+
+        /* إظهار القائمة عند وضع المؤشر على الحاوية */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* تغيير لون الزر عند وضع المؤشر */
+        .dropdown:hover .dropbtn {
+            background-color: #00ff1e;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dropdown">
+    <button class="dropbtn">☰</button>
+    
+    <div class="dropdown-content">
+        <a href="index.html">الصفحة الرئيسية</a>
+        <a href="side1.html">هاكات الاندوريد</a>
+        <a href="side2.html">هاكات الايفون</a>
+        <div class="dropdown">
+    <button class="dropbtn">☰</button>
+    
+    <div class="dropdown-content">
+        <a href="">الصفحة الرئيسية</a>
+        <a href="https://www.youtube.com">هاكات الاندرويد</a>
+        <a href="https://www.twitter.com">هاكات الايفون</a>
+    
+
+</div>
+  </body>
+</html>
